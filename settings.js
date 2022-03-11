@@ -8,7 +8,7 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'https://rest-api-nndzbot.herokuapp.com/': 'Alphabot',
+	'https://api-alphabot.herokuapp.com': 'Alphabot',
 }
 
 // setting 
