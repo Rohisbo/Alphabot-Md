@@ -3,12 +3,12 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	alfa: 'https://rest-api-nndzbot.herokuapp.com/',
+	alfa: 'http://api-daniganz.herokuapp.com',
 }
 
 // Free apikey
 global.APIKeys = {
-	'https://api-alphabot.herokuapp.com': 'Alphabot',
+	'https://rest-api-nndzbot.herokuapp.com/': 'Alphabot',
 }
 
 // setting 
