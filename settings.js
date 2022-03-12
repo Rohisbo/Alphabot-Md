@@ -8,7 +8,7 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'http://docs-jojo.herokuapp.com/api': 'Alphabot',
+	'https://api-alphabot.herokuapp.com' : 'Alphabot' ,
 }
 
 // setting 
