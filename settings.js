@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	alfa: 'http://docs-jojo.herokuapp.com/api',
+	alfa: 'https://rest-api-nndzbot.herokuapp.com/',
 }
 
 // Free apikey
