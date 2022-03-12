@@ -8,7 +8,7 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'https://rest-api-nndzbot.herokuapp.com/': 'nndzbot',
+	'http://api-daniganz.herokuapp.com': 'daniganz',
 }
 
 // setting 
