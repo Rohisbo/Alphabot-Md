@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	alfa: 'https://api.violetics.pw/dashboard',
+	alfa: 'https://api.violetics.pw/',
 }
 
 // Free apikey
